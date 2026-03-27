@@ -19,12 +19,12 @@ button {
   cursor: pointer;
   text-align: center;
   padding: 20px;
-  min-width:300px;
+  min-width: 300px;
   border-radius: 80px;
 }
 
 .btn1 {
-  background-color:rgb(123, 163, 163);
+  background-color: background-color blueviolet;
   color: #000;
 }
 
@@ -34,7 +34,7 @@ button {
 }
 
 .btn3 {
-  background-color:red;
+  background-color: red;
   color: #000;
 }
 
@@ -47,6 +47,7 @@ button {
   margin: 250px;
   gap: 3rem;
 }
+
 
 
 
