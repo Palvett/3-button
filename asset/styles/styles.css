@@ -38,6 +38,11 @@ button {
   color: #000;
 }
 
+.btn4 {
+  background-color: purple;
+  color: #000;
+}
+
 .btn {
   display: flex;
   text-align: center;
